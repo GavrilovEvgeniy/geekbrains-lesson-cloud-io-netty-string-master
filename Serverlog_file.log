@@ -685,3 +685,12 @@ java.io.IOException: Удаленный хост принудительно ра
 2021-07-04 17:26:41 INFO  Main:16 - tocloud=C:\\Program Files\NVIDIA Corporation\NvBackend\FeatureWhitelist.json=Cloud\___private___Jack\FeatureWhitelist.json
 2021-07-04 17:26:41 INFO  Main:25 - [tocloud, C:\\Program Files\NVIDIA Corporation\NvBackend\FeatureWhitelist.json, Cloud\___private___Jack\FeatureWhitelist.json]
 2021-07-04 17:26:42 INFO  Main:46 - Show private folder ___private___Jack
+2021-07-04 19:49:57 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 19:49:58 INFO  Main:51 - Server started on port 8189
+2021-07-04 19:52:56 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 19:52:57 INFO  Main:51 - Server started on port 8189
+2021-07-04 19:54:15 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 19:54:16 INFO  Main:51 - Server started on port 8189
+2021-07-04 19:56:26 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 19:56:27 INFO  Main:51 - Server started on port 8189
+2021-07-04 19:56:57 INFO  Main:23 - [tocloud, C:\\java\ChatServer\pom.xml, Cloud\src\geekbrains\lessonNumber7\pom.xml]

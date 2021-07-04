@@ -2418,3 +2418,82 @@
 2021-07-04 17:26:41 INFO  MainController:168 - Time for showing directory 3 ms
 2021-07-04 17:26:42 INFO  MainController:111 - Waiting for server's answer 1625408802619
 2021-07-04 17:26:42 INFO  MainController:168 - Time for showing directory 3 ms
+2021-07-04 19:50:04 INFO  MainController:28 - Cloud C:\ 50000 localhost 8189
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404881
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404889
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404891
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404894
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404896
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404897
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404899
+2021-07-04 19:50:04 INFO  MainController:112 - Waiting for server's answer 1625417404901
+2021-07-04 19:50:04 INFO  MainController:169 - Time for showing directory 25 ms
+2021-07-04 19:50:04 INFO  MainController:169 - Time for showing directory 1 ms
+2021-07-04 19:50:08 INFO  MainController:112 - Waiting for server's answer 1625417408064
+2021-07-04 19:50:08 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:09 INFO  MainController:112 - Waiting for server's answer 1625417409360
+2021-07-04 19:50:09 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:11 INFO  MainController:112 - Waiting for server's answer 1625417411144
+2021-07-04 19:50:11 INFO  MainController:169 - Time for showing directory 4 ms
+2021-07-04 19:50:12 INFO  MainController:112 - Waiting for server's answer 1625417412313
+2021-07-04 19:50:12 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:15 INFO  MainController:112 - Waiting for server's answer 1625417415744
+2021-07-04 19:50:15 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:19 INFO  MainController:112 - Waiting for server's answer 1625417419040
+2021-07-04 19:50:19 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:21 INFO  MainController:112 - Waiting for server's answer 1625417421017
+2021-07-04 19:50:21 INFO  MainController:112 - Waiting for server's answer 1625417421019
+2021-07-04 19:50:21 INFO  MainController:169 - Time for showing directory 5 ms
+2021-07-04 19:50:22 INFO  MainController:112 - Waiting for server's answer 1625417422049
+2021-07-04 19:50:22 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:25 INFO  MainController:112 - Waiting for server's answer 1625417425201
+2021-07-04 19:50:25 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:50:26 INFO  MainController:112 - Waiting for server's answer 1625417426281
+2021-07-04 19:50:26 INFO  MainController:169 - Time for showing directory 3 ms
+2021-07-04 19:53:01 INFO  MainController:28 - Cloud C:\ 50000 localhost 8189
+2021-07-04 19:53:02 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:53:02 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:53:06 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:54:19 INFO  MainController:28 - Cloud C:\ 50000 localhost 8189
+2021-07-04 19:54:19 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:54:19 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:54:37 INFO  MainController:170 - Time for showing directory 0 ms
+2021-07-04 19:56:32 INFO  MainController:28 - Cloud C:\ 50000 localhost 8189
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792766
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792775
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792778
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792780
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792782
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792785
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792788
+2021-07-04 19:56:32 INFO  MainController:112 - Waiting for server's answer 1625417792791
+2021-07-04 19:56:32 INFO  MainController:170 - Time for showing directory 31 ms
+2021-07-04 19:56:32 INFO  MainController:170 - Time for showing directory 1 ms
+2021-07-04 19:56:36 INFO  MainController:112 - Waiting for server's answer 1625417796209
+2021-07-04 19:56:36 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:37 INFO  MainController:112 - Waiting for server's answer 1625417797600
+2021-07-04 19:56:37 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:41 INFO  MainController:112 - Waiting for server's answer 1625417801825
+2021-07-04 19:56:41 INFO  MainController:170 - Time for showing directory 4 ms
+2021-07-04 19:56:42 INFO  MainController:112 - Waiting for server's answer 1625417802689
+2021-07-04 19:56:42 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:43 INFO  MainController:112 - Waiting for server's answer 1625417803409
+2021-07-04 19:56:43 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:46 INFO  MainController:112 - Waiting for server's answer 1625417806416
+2021-07-04 19:56:46 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:51 INFO  MainController:112 - Waiting for server's answer 1625417811801
+2021-07-04 19:56:51 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:57 INFO  MainController:112 - Waiting for server's answer 1625417817041
+2021-07-04 19:56:57 INFO  MainController:154 - Time for uploading into Cloud 3 ms
+2021-07-04 19:56:57 INFO  MainController:112 - Waiting for server's answer 1625417817043
+2021-07-04 19:56:57 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:58 INFO  MainController:112 - Waiting for server's answer 1625417818321
+2021-07-04 19:56:58 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:56:59 INFO  MainController:112 - Waiting for server's answer 1625417819593
+2021-07-04 19:56:59 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:57:00 INFO  MainController:112 - Waiting for server's answer 1625417820464
+2021-07-04 19:57:00 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:57:03 INFO  MainController:112 - Waiting for server's answer 1625417823744
+2021-07-04 19:57:03 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 19:57:05 INFO  MainController:112 - Waiting for server's answer 1625417825393
+2021-07-04 19:57:05 INFO  MainController:170 - Time for showing directory 3 ms

@@ -17,6 +17,7 @@ import lombok.SneakyThrows;
 import java.net.URL;
 import java.util.Date;
 import java.util.ResourceBundle;
+
 import org.apache.log4j.Logger;
 
 public class MainController implements Initializable {
@@ -83,8 +84,7 @@ public class MainController implements Initializable {
 
         waitCommandResult();
 
-        Date endTime = new Date();
-        long deltaTime = endTime.getTime() - startTime.getTime();
+        long deltaTime = measureTime(startTime);
         log.info("Time for executing a command " + deltaTime + " ms");
 
         if (gotResult.startsWith("Logged")) {
@@ -114,6 +114,11 @@ public class MainController implements Initializable {
             }
     }
 
+    private long measureTime(Date startTime ) {
+        Date endTime = new Date();
+        return endTime.getTime() - startTime.getTime();
+    }
+
     private void preparePath(ListView<String> content, String path1, String path2)  {
         String currentItemSelected = content.getSelectionModel().getSelectedItem();
         String onlyFileName = currentItemSelected.substring(0, currentItemSelected.indexOf(" | "));
@@ -131,8 +136,7 @@ public class MainController implements Initializable {
         waitCommandResult();
         gotResult = "";
 
-        Date endTime = new Date();
-        long deltaTime = endTime.getTime() - startTime.getTime();
+        long deltaTime = measureTime(startTime);
         log.info("Time for downloading from Cloud " + deltaTime + " ms");
 
         showDir(localContent, curLocalPath);
@@ -148,8 +152,7 @@ public class MainController implements Initializable {
         waitCommandResult();
         gotResult = "";
 
-        Date endTime = new Date();
-        long deltaTime = endTime.getTime() - startTime.getTime();
+        long deltaTime = measureTime(startTime);
         log.info("Time for uploading into Cloud " + deltaTime + " ms");
 
         showDir(cloudContent, curCloudPath);
@@ -162,9 +165,8 @@ public class MainController implements Initializable {
         networkService.sendCommand("ls=" + path + "=" + userName);
 
         waitCommandResult();
-        Date endTime = new Date();
 
-        long deltaTime = endTime.getTime() - startTime.getTime();
+        long deltaTime = measureTime(startTime);
         log.info("Time for showing directory " + deltaTime + " ms");
 
         String In = gotResult;
