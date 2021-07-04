@@ -2497,3 +2497,265 @@
 2021-07-04 19:57:03 INFO  MainController:170 - Time for showing directory 3 ms
 2021-07-04 19:57:05 INFO  MainController:112 - Waiting for server's answer 1625417825393
 2021-07-04 19:57:05 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:12 INFO  MainController:28 - Cloud C:\ 50000 localhost 8189
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652479
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652487
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652489
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652492
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652494
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652496
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652498
+2021-07-04 22:24:12 INFO  MainController:111 - Waiting for server's answer 1625426652500
+2021-07-04 22:24:12 INFO  MainController:170 - Time for showing directory 26 ms
+2021-07-04 22:24:12 INFO  MainController:170 - Time for showing directory 1 ms
+2021-07-04 22:24:14 INFO  MainController:111 - Waiting for server's answer 1625426654838
+2021-07-04 22:24:14 INFO  MainController:170 - Time for showing directory 4 ms
+2021-07-04 22:24:16 INFO  MainController:111 - Waiting for server's answer 1625426656404
+2021-07-04 22:24:16 INFO  MainController:170 - Time for showing directory 2 ms
+2021-07-04 22:24:18 INFO  MainController:111 - Waiting for server's answer 1625426658413
+2021-07-04 22:24:18 INFO  MainController:170 - Time for showing directory 4 ms
+2021-07-04 22:24:22 INFO  MainController:111 - Waiting for server's answer 1625426662301
+2021-07-04 22:24:22 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:24 INFO  MainController:111 - Waiting for server's answer 1625426664557
+2021-07-04 22:24:24 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:26 INFO  MainController:111 - Waiting for server's answer 1625426666117
+2021-07-04 22:24:26 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668709
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668711
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668714
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668716
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668718
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668720
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668723
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668725
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668727
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668729
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668732
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668734
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668736
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668739
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668741
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668743
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668745
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668748
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668750
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668752
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668755
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668757
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668760
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668761
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668763
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668766
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668768
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668770
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668772
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668775
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668777
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668779
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668781
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668784
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668786
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668788
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668791
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668793
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668795
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668797
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668800
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668802
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668804
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668806
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668808
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668811
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668813
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668815
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668818
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668820
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668822
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668824
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668827
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668829
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668831
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668833
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668836
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668838
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668840
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668843
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668845
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668847
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668849
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668852
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668854
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668856
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668858
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668861
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668863
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668865
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668868
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668870
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668872
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668874
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668877
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668879
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668881
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668883
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668886
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668888
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668890
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668892
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668895
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668897
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668899
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668901
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668904
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668906
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668908
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668910
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668913
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668915
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668918
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668920
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668922
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668924
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668927
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668929
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668931
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668933
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668935
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668938
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668940
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668942
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668944
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668947
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668949
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668951
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668953
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668956
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668958
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668960
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668962
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668965
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668967
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668969
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668971
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668973
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668976
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668978
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668980
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668982
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668984
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668987
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668989
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668991
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668993
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668995
+2021-07-04 22:24:28 INFO  MainController:111 - Waiting for server's answer 1625426668998
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669000
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669002
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669004
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669006
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669009
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669011
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669013
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669015
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669018
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669020
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669022
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669024
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669026
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669029
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669031
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669033
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669035
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669038
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669040
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669042
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669044
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669046
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669049
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669051
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669053
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669055
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669057
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669060
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669062
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669064
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669066
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669068
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669071
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669073
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669075
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669077
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669079
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669082
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669084
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669086
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669088
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669091
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669093
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669095
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669097
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669099
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669102
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669104
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669106
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669108
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669110
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669113
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669115
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669117
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669119
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669121
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669124
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669126
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669128
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669130
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669133
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669134
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669136
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669138
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669140
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669143
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669145
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669147
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669149
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669151
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669154
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669156
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669158
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669160
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669163
+2021-07-04 22:24:29 INFO  MainController:156 - Time for uploading into Cloud 457 ms
+2021-07-04 22:24:29 INFO  MainController:111 - Waiting for server's answer 1625426669165
+2021-07-04 22:24:29 INFO  MainController:170 - Time for showing directory 2 ms
+2021-07-04 22:24:30 INFO  MainController:111 - Waiting for server's answer 1625426670869
+2021-07-04 22:24:30 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:33 INFO  MainController:111 - Waiting for server's answer 1625426673437
+2021-07-04 22:24:33 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:35 INFO  MainController:111 - Waiting for server's answer 1625426675805
+2021-07-04 22:24:35 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:38 INFO  MainController:111 - Waiting for server's answer 1625426678365
+2021-07-04 22:24:38 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:40 INFO  MainController:111 - Waiting for server's answer 1625426680869
+2021-07-04 22:24:40 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:42 INFO  MainController:111 - Waiting for server's answer 1625426682605
+2021-07-04 22:24:42 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:44 INFO  MainController:111 - Waiting for server's answer 1625426684541
+2021-07-04 22:24:44 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:53 INFO  MainController:111 - Waiting for server's answer 1625426693125
+2021-07-04 22:24:53 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:24:56 INFO  MainController:111 - Waiting for server's answer 1625426696773
+2021-07-04 22:24:56 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:05 INFO  MainController:111 - Waiting for server's answer 1625426705325
+2021-07-04 22:25:05 INFO  MainController:140 - Time for downloading from Cloud 4 ms
+2021-07-04 22:25:05 INFO  MainController:111 - Waiting for server's answer 1625426705328
+2021-07-04 22:25:05 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:07 INFO  MainController:111 - Waiting for server's answer 1625426707653
+2021-07-04 22:25:07 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:09 INFO  MainController:111 - Waiting for server's answer 1625426709101
+2021-07-04 22:25:09 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:10 INFO  MainController:111 - Waiting for server's answer 1625426710133
+2021-07-04 22:25:10 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:11 INFO  MainController:111 - Waiting for server's answer 1625426711005
+2021-07-04 22:25:11 INFO  MainController:170 - Time for showing directory 3 ms
+2021-07-04 22:25:12 INFO  MainController:111 - Waiting for server's answer 1625426712301
+2021-07-04 22:25:12 INFO  MainController:170 - Time for showing directory 3 ms

@@ -36,12 +36,10 @@ public class NettyServerService implements ServerService {
                              channel.pipeline().addLast(
                                      new StringDecoder(),
                                      new StringEncoder(),
-                                     new CommandInboundHandler()
+                                     new CommandInboundHandler(),
+                                     new ChunkedWriteHandler(),
+                                     new BigFilesWriteHandler()
 
-                             );
-                             channel.pipeline().addLast(
-                                              new ChunkedWriteHandler(),
-                                              new BigFilesWriteHandler()
                              );
                         }
                     });
