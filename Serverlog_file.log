@@ -1,0 +1,687 @@
+2021-07-04 11:17:39 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 11:17:39 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! macho
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:17:43 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:17:43 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:117 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:18:03 ERROR Main:49 - Autentication failed for Jack
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! macho
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:03 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:18:03 INFO  Main:49 - Current user 
+2021-07-04 11:18:55 INFO  Main:117 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:18:55 INFO  Main:34 - Autentication done for Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:18:59 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! macho
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:18:59 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:18:59 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! macho
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:19:02 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:19:02 INFO  Main:49 - Current user Jack
+2021-07-04 11:25:08 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 11:25:09 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! macho
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:13 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:25:13 INFO  Main:49 - Current user 
+2021-07-04 11:25:28 INFO  Main:14 - tocloud=Cloud\hello_world\src\geekbrains\lesson_1\hello_world\Main.java=C:\\java\catch_the_drop\Main.java
+2021-07-04 11:25:28 INFO  Main:24 - [tocloud, Cloud\hello_world\src\geekbrains\lesson_1\hello_world\Main.java, C:\\java\catch_the_drop\Main.java]
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! macho
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:25:36 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:25:36 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:14 - tocloud=C:\\java\Game\GameMap.java=Cloud\GameMap.java
+2021-07-04 11:26:02 INFO  Main:24 - [tocloud, C:\\java\Game\GameMap.java, Cloud\GameMap.java]
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:02 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:02 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:14 - tocloud=C:\\java\Game\src=Cloud\src
+2021-07-04 11:26:05 INFO  Main:24 - [tocloud, C:\\java\Game\src, Cloud\src]
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:05 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:05 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:08 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:08 INFO  Main:49 - Current user 
+2021-07-04 11:26:20 INFO  Main:18 - login=Jack=Son
+2021-07-04 11:26:20 INFO  Main:27 - [login, Jack, Son]
+2021-07-04 11:26:20 INFO  Main:117 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:26:20 INFO  Main:37 - Autentication done for Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:20 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:20 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:20 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:26 INFO  Main:14 - tocloud=C:\\java\Game\Game.java=Cloud\___private___Jack\Game.java
+2021-07-04 11:26:26 INFO  Main:24 - [tocloud, C:\\java\Game\Game.java, Cloud\___private___Jack\Game.java]
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:28 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:28 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:28 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:37 INFO  Main:14 - tocloud=C:\\java\Game\Game.iml=Cloud\___private___Jack\Game.iml
+2021-07-04 11:26:37 INFO  Main:24 - [tocloud, C:\\java\Game\Game.iml, Cloud\___private___Jack\Game.iml]
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:38 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! macho
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:26:38 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:26:38 INFO  Main:49 - Current user Jack
+2021-07-04 11:38:01 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 11:38:02 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! macho
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:07 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:38:07 INFO  Main:49 - Current user 
+2021-07-04 11:38:13 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.lang.NullPointerException
+	at java.util.Objects.requireNonNull(Objects.java:203)
+	at gb.cloud.server.service.impl.command.ViewFilesInDirCommand.process(ViewFilesInDirCommand.java:43)
+	at gb.cloud.server.service.impl.command.ViewFilesInDirCommand.processCommand(ViewFilesInDirCommand.java:23)
+	at gb.cloud.server.service.impl.CommandDictionaryServiceImpl.processCommand(CommandDictionaryServiceImpl.java:38)
+	at gb.cloud.server.service.impl.handler.CommandInboundHandler.channelRead0(CommandInboundHandler.java:16)
+	at gb.cloud.server.service.impl.handler.CommandInboundHandler.channelRead0(CommandInboundHandler.java:11)
+	at io.netty.channel.SimpleChannelInboundHandler.channelRead(SimpleChannelInboundHandler.java:99)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:103)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:166)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2021-07-04 11:38:34 WARN  DefaultChannelPipeline:1152 - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: Удаленный хост принудительно разорвал существующее подключение
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:378)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:748)
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! macho
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:09 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:39:09 INFO  Main:49 - Current user 
+2021-07-04 11:39:21 INFO  Main:18 - login=Jack=Son
+2021-07-04 11:39:21 INFO  Main:27 - [login, Jack, Son]
+2021-07-04 11:39:21 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:39:21 INFO  Main:37 - Autentication done for Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:21 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! macho
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:21 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:39:21 INFO  Main:49 - Current user Jack
+2021-07-04 11:39:31 INFO  Main:14 - tocloud=C:\\java\ChatCommon\target=Cloud\___private___Jack\target
+2021-07-04 11:39:31 INFO  Main:24 - [tocloud, C:\\java\ChatCommon\target, Cloud\___private___Jack\target]
+2021-07-04 11:39:50 INFO  Main:14 - tocloud=C:\\Program Files (x86)\Realtek=Cloud\___private___Jack\Realtek
+2021-07-04 11:39:50 INFO  Main:24 - [tocloud, C:\\Program Files (x86)\Realtek, Cloud\___private___Jack\Realtek]
+2021-07-04 11:43:52 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 11:43:52 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! macho
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:43:57 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:43:57 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:18 - login=Tanya=888
+2021-07-04 11:44:07 INFO  Main:27 - [login, Tanya, 888]
+2021-07-04 11:44:07 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:44:07 ERROR Main:52 - Autentication failed for Tanya
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! macho
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:07 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:44:07 INFO  Main:49 - Current user 
+2021-07-04 11:44:41 INFO  Main:18 - login=Tanya=1068
+2021-07-04 11:44:41 INFO  Main:27 - [login, Tanya, 1068]
+2021-07-04 11:44:41 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 11:44:41 INFO  Main:37 - Autentication done for Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! macho
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:44:41 INFO  Main:49 - Current user Tanya
+2021-07-04 11:44:41 INFO  Main:56 - Show private folder ___private___Tanya
+2021-07-04 11:44:52 INFO  Main:14 - tocloud=C:\\Program Files (x86)\Windows Mail=Cloud\___private___Tanya\Windows Mail
+2021-07-04 11:44:52 INFO  Main:24 - [tocloud, C:\\Program Files (x86)\Windows Mail, Cloud\___private___Tanya\Windows Mail]
+2021-07-04 11:44:55 INFO  Main:14 - tocloud=C:\\Program Files (x86)\Windows Media Player=Cloud\___private___Tanya\Windows Media Player
+2021-07-04 11:44:55 INFO  Main:24 - [tocloud, C:\\Program Files (x86)\Windows Media Player, Cloud\___private___Tanya\Windows Media Player]
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! macho
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:45:48 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:48 INFO  Main:56 - Show private folder ___private___Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! Anton
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! Boris
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! Cobold
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! Jack
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! macho
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:48 - Private folder! Tanya
+2021-07-04 11:45:52 INFO  Main:49 - Current user Tanya
+2021-07-04 11:45:52 INFO  Main:56 - Show private folder ___private___Tanya
+2021-07-04 12:31:44 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 12:31:44 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! macho
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:29 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:35:29 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! macho
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:45 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:35:45 INFO  Main:49 - Current user 
+2021-07-04 12:35:54 INFO  Main:18 - login=Jack=Son
+2021-07-04 12:35:54 INFO  Main:27 - [login, Jack, Son]
+2021-07-04 12:35:54 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 12:35:54 INFO  Main:37 - Autentication done for Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:35:54 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! macho
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:35:54 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:35:54 INFO  Main:49 - Current user Jack
+2021-07-04 12:36:09 INFO  Main:14 - tocloud=C:\\java\Cloud_io.7z=Cloud\___private___Jack\Realtek\Cloud_io.7z
+2021-07-04 12:36:09 INFO  Main:24 - [tocloud, C:\\java\Cloud_io.7z, Cloud\___private___Jack\Realtek\Cloud_io.7z]
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:37:19 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! macho
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:37:19 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:37:19 INFO  Main:49 - Current user Jack
+2021-07-04 12:42:34 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 12:42:35 INFO  Main:51 - Сервер запущен, порт 8189
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! macho
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:40 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:42:40 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:14 - tocloud=C:\\DownStreamTech\CAM350 10.0\hardlock\Sentinel System Driver Installer 7.4.0.exe=Cloud\Sentinel System Driver Installer 7.4.0.exe
+2021-07-04 12:42:56 INFO  Main:24 - [tocloud, C:\\DownStreamTech\CAM350 10.0\hardlock\Sentinel System Driver Installer 7.4.0.exe, Cloud\Sentinel System Driver Installer 7.4.0.exe]
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! macho
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:42:56 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:42:56 INFO  Main:49 - Current user 
+2021-07-04 12:43:49 INFO  Main:18 - login=Jack=Son
+2021-07-04 12:43:49 INFO  Main:27 - [login, Jack, Son]
+2021-07-04 12:43:49 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 12:43:49 INFO  Main:37 - Autentication done for Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:43:49 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! macho
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:43:49 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:43:49 INFO  Main:49 - Current user Jack
+2021-07-04 12:44:04 INFO  Main:14 - tocloud=C:\\Program Files (x86)\VEGAS=Cloud\___private___Jack\VEGAS
+2021-07-04 12:44:04 INFO  Main:24 - [tocloud, C:\\Program Files (x86)\VEGAS, Cloud\___private___Jack\VEGAS]
+2021-07-04 12:57:49 INFO  Main:24 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 12:57:50 INFO  Main:51 - Server started on port 8189
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! macho
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:57:55 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:57:55 INFO  Main:49 - Current user 
+2021-07-04 12:58:11 INFO  Main:14 - tocloud=C:\\Program Files\NVIDIA Corporation=Cloud\hello_world\NVIDIA Corporation
+2021-07-04 12:58:11 INFO  Main:24 - [tocloud, C:\\Program Files\NVIDIA Corporation, Cloud\hello_world\NVIDIA Corporation]
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! macho
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:17 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:58:17 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:14 - tocloud=C:\\Program Files\pgAdmin 4\v5\LICENSE=Cloud\LICENSE
+2021-07-04 12:58:22 INFO  Main:24 - [tocloud, C:\\Program Files\pgAdmin 4\v5\LICENSE, Cloud\LICENSE]
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! macho
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:22 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:58:22 INFO  Main:49 - Current user 
+2021-07-04 12:58:37 INFO  Main:18 - login=Jack=Son
+2021-07-04 12:58:37 INFO  Main:27 - [login, Jack, Son]
+2021-07-04 12:58:37 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 12:58:37 INFO  Main:37 - Autentication done for Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:37 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! macho
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:37 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:58:37 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:45 INFO  Main:14 - tocloud=C:\\Program Files\cFosSpeed=Cloud\___private___Jack\cFosSpeed
+2021-07-04 12:58:45 INFO  Main:24 - [tocloud, C:\\Program Files\cFosSpeed, Cloud\___private___Jack\cFosSpeed]
+2021-07-04 12:58:50 INFO  Main:14 - tocloud=C:\\Program Files\BlueStacks_msi2=Cloud\___private___Jack\BlueStacks_msi2
+2021-07-04 12:58:50 INFO  Main:24 - [tocloud, C:\\Program Files\BlueStacks_msi2, Cloud\___private___Jack\BlueStacks_msi2]
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! Anton
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! Boris
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! Cobold
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! Jack
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:52 INFO  Main:56 - Show private folder ___private___Jack
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! macho
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 12:58:52 INFO  Main:48 - Private folder! Tanya
+2021-07-04 12:58:52 INFO  Main:49 - Current user Jack
+2021-07-04 15:26:13 INFO  Main:27 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 15:26:13 INFO  Main:51 - Server started on port 8189
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! macho
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:22 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:26:22 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! macho
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:28 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:26:28 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! macho
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:26:39 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:26:39 INFO  Main:55 - Current user 
+2021-07-04 15:28:39 INFO  Main:20 - login=Tanya=1068
+2021-07-04 15:28:39 INFO  Main:28 - [login, Tanya, 1068]
+2021-07-04 15:28:39 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 15:28:39 INFO  Main:37 - Autentication done for Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! macho
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:28:39 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:39 INFO  Main:59 - Show private folder ___private___Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! macho
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:28:42 INFO  Main:55 - Current user Tanya
+2021-07-04 15:28:42 INFO  Main:59 - Show private folder ___private___Tanya
+2021-07-04 15:28:58 INFO  Main:16 - tocloud=C:\\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\redist=Cloud\___private___Tanya\redist
+2021-07-04 15:28:58 INFO  Main:25 - [tocloud, C:\\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.3.1\redist, Cloud\___private___Tanya\redist]
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! macho
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:29:00 INFO  Main:55 - Current user Tanya
+2021-07-04 15:29:00 INFO  Main:59 - Show private folder ___private___Tanya
+2021-07-04 15:29:52 INFO  Main:20 - login=Jack=Son
+2021-07-04 15:29:52 INFO  Main:28 - [login, Jack, Son]
+2021-07-04 15:29:52 INFO  Main:112 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 15:29:52 INFO  Main:37 - Autentication done for Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:52 INFO  Main:59 - Show private folder ___private___Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! macho
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:52 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:29:52 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:59 - Show private folder ___private___Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! macho
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:54 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:29:54 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:59 - Show private folder ___private___Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! macho
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:29:57 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:29:57 INFO  Main:55 - Current user Jack
+2021-07-04 15:57:38 INFO  Main:27 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 15:57:38 INFO  Main:51 - Server started on port 8189
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! macho
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:44 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:57:44 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! Anton
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! Boris
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! Cobold
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! Jack
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! macho
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 15:57:52 INFO  Main:54 - Private folder! Tanya
+2021-07-04 15:57:52 INFO  Main:55 - Current user 
+2021-07-04 17:25:37 INFO  Main:27 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-04 17:25:37 INFO  Main:51 - Server started on port 8189
+2021-07-04 17:26:04 INFO  Main:16 - tocloud=C:\\Program Files\NVIDIA Corporation\NvAb\NvAbHub=Cloud\NvAbHub
+2021-07-04 17:26:04 INFO  Main:25 - [tocloud, C:\\Program Files\NVIDIA Corporation\NvAb\NvAbHub, Cloud\NvAbHub]
+2021-07-04 17:26:35 INFO  Main:21 - [login, Jack, Son]
+2021-07-04 17:26:35 INFO  Main:90 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-04 17:26:35 INFO  Main:114 - Autentication done for Jack
+2021-07-04 17:26:35 INFO  Main:46 - Show private folder ___private___Jack
+2021-07-04 17:26:41 INFO  Main:16 - tocloud=C:\\Program Files\NVIDIA Corporation\NvBackend\FeatureWhitelist.json=Cloud\___private___Jack\FeatureWhitelist.json
+2021-07-04 17:26:41 INFO  Main:25 - [tocloud, C:\\Program Files\NVIDIA Corporation\NvBackend\FeatureWhitelist.json, Cloud\___private___Jack\FeatureWhitelist.json]
+2021-07-04 17:26:42 INFO  Main:46 - Show private folder ___private___Jack

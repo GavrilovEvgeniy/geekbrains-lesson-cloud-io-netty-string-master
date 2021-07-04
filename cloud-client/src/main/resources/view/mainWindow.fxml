@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gb.cloud.client.controller.MainController">
+   <children>
+      <TextField fx:id="commandTextField" layoutX="14.0" layoutY="14.0" prefHeight="25.0" prefWidth="477.0" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0" />
+      <Button layoutX="501.0" layoutY="14.0" mnemonicParsing="false" onAction="#sendCommand" prefHeight="25.0" prefWidth="93.0" text="Выполнить" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0" />
+      <TextArea fx:id="commandResultTextArea" editable="false" layoutX="14.0" layoutY="53.0" prefHeight="109.0" prefWidth="580.0" AnchorPane.bottomAnchor="245.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" />
+      <ListView fx:id="localContent" layoutX="10.0" layoutY="171.0" onMouseClicked="#handle" prefHeight="181.0" prefWidth="286.0" />
+      <ListView fx:id="cloudContent" layoutX="303.0" layoutY="171.0" onMouseClicked="#handle" prefHeight="181.0" prefWidth="286.0" />
+      <Button fx:id="btnUpload" layoutX="110.0" layoutY="361.0" mnemonicParsing="false" onAction="#btnUpload" prefHeight="25.0" prefWidth="102.0" text="&gt;&gt;&gt;" />
+      <Button fx:id="btnDownload" layoutX="409.0" layoutY="361.0" mnemonicParsing="false" onAction="#btnDownload" prefHeight="25.0" prefWidth="102.0" text="&lt;&lt;&lt;" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>gb.cloud</groupId>
+    <artifactId>lesson-cloud-io</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>cloud-server</module>
+        <module>cloud-client</module>
+    </modules>
+
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.flywaydb/flyway-core -->
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-core</artifactId>
+            <version>7.10.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.flywaydb/flyway-maven-plugin -->
+        <dependency>
+            <groupId>org.flywaydb</groupId>
+            <artifactId>flyway-maven-plugin</artifactId>
+            <version>7.11.0</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/com.github.docker-java/docker-java -->
+        <dependency>
+            <groupId>com.github.docker-java</groupId>
+            <artifactId>docker-java</artifactId>
+            <version>3.2.10</version>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+    <plugins>
+    <plugin>
+        <groupId>org.flywaydb</groupId>
+        <artifactId>flyway-maven-plugin</artifactId>
+        <version>7.11.0</version>
+        <configuration>
+            <user>postgres</user>
+            <password>9876</password>
+            <schemas>
+                <schema>testdb</schema>
+            </schemas>
+            <baselineOnMigrate>true</baselineOnMigrate>
+        </configuration>
+    </plugin>
+    </plugins>
+    </build>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+</project>
