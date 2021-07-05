@@ -721,3 +721,6 @@ java.io.IOException: Удаленный хост принудительно ра
 2021-07-05 21:50:53 INFO  Main:23 - [tocloud, C:\\Program Files (x86)\MySQL, Cloud\MySQL]
 2021-07-05 21:50:54 INFO  Main:55 - Show private folder ___private___Jack
 2021-07-05 21:51:04 INFO  Main:55 - Show private folder ___private___Jack
+2021-07-05 22:18:36 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-05 22:18:36 INFO  Main:49 - Server started on port 8189
+2021-07-05 22:18:58 INFO  Main:23 - [tocloud, C:\\java\hello_world\hello_world.iml, Cloud\src\geekbrains\lessonNumber7\hello_world.iml]

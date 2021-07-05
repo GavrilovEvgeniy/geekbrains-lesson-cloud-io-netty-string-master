@@ -37,21 +37,20 @@ public class MainController implements Initializable {
     @FXML
     public Button btnUpload;
 
-    public static String fullPath1 = "";
-    public static String fullPath2 = "";
+    private static String fullPath1 = "";
+    private static String fullPath2 = "";
 
-    public static String gotResult = "";
-    public static String userName = "";
+    private static String gotResult = "";
+    private static String userName = "";
 
-    public static String curCloudPath = MainApplication.cloudDirectory;
-    public static String curLocalPath = MainApplication.localDirectory;
+    private static String curCloudPath = MainApplication.cloudDirectory;
+    private static String curLocalPath = MainApplication.localDirectory;
 
     public static final Logger log = Logger.getLogger(MainController.class);
 
-    public static int loggedLen = 7;
-    public static String fileType = "FILE";
-    public static String slashS = "\\";
-    public static int numMouseClicks = 2;
+    private static final String localMarker = "LOCAL";
+    private static final String cloudMarker = "CLOUD";
+    private static final String slashS = "\\";
 
     @SneakyThrows
     @Override
@@ -81,10 +80,10 @@ public class MainController implements Initializable {
                 Platform.runLater(() -> {
                     String[] cFiles = resultCommand.split(System.lineSeparator());
 
-                    if (cFiles[0].equals("LOCAL")) {
+                    if (cFiles[0].equals(localMarker)) {
                         updateListView(localContent, cFiles);
                     }
-                    if (cFiles[0].equals("CLOUD")) {
+                    if (cFiles[0].equals(cloudMarker)) {
                         updateListView(cloudContent, cFiles);
                     }
                 });
@@ -106,6 +105,7 @@ public class MainController implements Initializable {
         log.info("Time for executing a command " + deltaTime + " ms");
 
         if (gotResult.startsWith("Logged")) {
+            int loggedLen = 7;
             userName = gotResult.substring(loggedLen);
         }
 
@@ -185,6 +185,7 @@ public class MainController implements Initializable {
     private String changeDir(ListView<String> content, String curPath) {
         String changedPath;
         String currentItemSelected = content.getSelectionModel().getSelectedItem();
+        String fileType = "FILE";
         if (currentItemSelected.contains(fileType))
             return null;
         String onlyFileName = currentItemSelected.substring(0, currentItemSelected.indexOf(" | "));
@@ -202,6 +203,7 @@ public class MainController implements Initializable {
 
     public void handle(javafx.scene.input.MouseEvent mouseEvent) {
 
+        int numMouseClicks = 2;
         if (mouseEvent.getClickCount() == numMouseClicks) {
 
             if (localContent.isFocused())
