@@ -29,13 +29,22 @@ public class ViewFilesInDirCommand implements CommandService {
         return process(actualCommandParts[1]);
     }
 
+    private static void addTarget(StringBuilder builder, String dir) {
+        if (dir.startsWith(localDir)) {
+            builder.append("LOCAL").append(System.lineSeparator());
+        }
+        if (dir.startsWith(cloudDir)) {
+            builder.append("CLOUD").append(System.lineSeparator());
+        }
+    }
+
     private static void addLevelUp(StringBuilder builder, String dir, String startDir,  int len) {
         if (dir.startsWith(startDir) & dir.length() > len) {
             builder.append(levelUp).append(System.lineSeparator());
         }
     }
 
-    private static void showPrivateDir(File dir, StringBuilder builder, String logName) {
+    private static void showAllDirs(File dir, StringBuilder builder, String logName) {
         for (File childFile : Objects.requireNonNull(dir.listFiles())) {
             String typeFile = getTypeFile(childFile);
             if (childFile.getName().startsWith(privateDir)) {
@@ -44,7 +53,6 @@ public class ViewFilesInDirCommand implements CommandService {
                 if (logName.equals(privateName)) {
 
                     Main.log.info("Show private folder " + childFile.getName());
-
                     builder.append(childFile.getName()).append(" | ").append(typeFile).append(System.lineSeparator());
                 }
             } else {
@@ -62,10 +70,12 @@ public class ViewFilesInDirCommand implements CommandService {
         }
 
         StringBuilder builder = new StringBuilder();
+
+        addTarget(builder, dirPath);
         addLevelUp(builder, dirPath, cloudDir, cloudLen);
         addLevelUp(builder, dirPath, localDir, localLen);
 
-        showPrivateDir(directory, builder, loggedName);
+        showAllDirs(directory, builder, loggedName);
 
         return builder.toString();
     }

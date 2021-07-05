@@ -18,6 +18,7 @@ import java.net.URL;
 import java.util.Date;
 import java.util.ResourceBundle;
 
+import org.apache.commons.lang.ArrayUtils;
 import org.apache.log4j.Logger;
 
 public class MainController implements Initializable {
@@ -62,6 +63,12 @@ public class MainController implements Initializable {
         showDir(cloudContent, curCloudPath);
     }
 
+    private void updateListView(ListView<String> content, String[] cFs) {
+        cFs = (String[]) ArrayUtils.remove(cFs, 0);
+        content.setItems(FXCollections.observableArrayList(cFs));
+        content.getSelectionModel().selectFirst();
+    }
+
     private void createCommandResultHandler() {
         new Thread(() -> {
             byte[] buffer = new byte[Integer.parseInt(MainApplication.bufferLength)];
@@ -70,6 +77,17 @@ public class MainController implements Initializable {
                 String resultCommand = new String(buffer, 0, countReadBytes);
                 gotResult = resultCommand;
                 Platform.runLater(() -> commandResultTextArea.appendText(resultCommand + System.lineSeparator()));
+
+                Platform.runLater(() -> {
+                    String[] cFiles = resultCommand.split(System.lineSeparator());
+
+                    if (cFiles[0].equals("LOCAL")) {
+                        updateListView(localContent, cFiles);
+                    }
+                    if (cFiles[0].equals("CLOUD")) {
+                        updateListView(cloudContent, cFiles);
+                    }
+                });
             }
 
         }).start();
@@ -159,24 +177,9 @@ public class MainController implements Initializable {
     }
 
     private void showDir(ListView<String> content, String path) {
-
-        Date startTime = new Date();
-
         networkService.sendCommand("ls=" + path + "=" + userName);
-
         waitCommandResult();
-
-        long deltaTime = measureTime(startTime);
-        log.info("Time for showing directory " + deltaTime + " ms");
-
-        String In = gotResult;
-        String[] cFiles = In.split(System.lineSeparator());
-
-        content.setItems(FXCollections.observableArrayList(cFiles));
-        content.getSelectionModel().selectFirst();
-
         gotResult = "";
-
     }
 
     private String changeDir(ListView<String> content, String curPath) {

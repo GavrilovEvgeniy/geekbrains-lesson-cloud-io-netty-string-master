@@ -698,3 +698,26 @@ java.io.IOException: Удаленный хост принудительно ра
 2021-07-04 22:24:05 INFO  Main:53 - Server started on port 8189
 2021-07-04 22:24:28 INFO  Main:23 - [tocloud, C:\\Program Files\Intel\Media Resource\igd11dxva32.dll, Cloud\src\igd11dxva32.dll]
 2021-07-04 22:25:05 INFO  Main:23 - [tocloud, Cloud\src\geekbrains\lessonNumber7\pom.xml, C:\\java\Stream20210116\pom.xml]
+2021-07-05 21:17:51 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-05 21:17:52 INFO  Main:49 - Server started on port 8189
+2021-07-05 21:28:53 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-05 21:28:53 INFO  Main:49 - Server started on port 8189
+2021-07-05 21:41:03 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-05 21:41:04 INFO  Main:49 - Server started on port 8189
+2021-07-05 21:41:29 INFO  Main:23 - [tocloud, C:\\java\KrossZero\KrossZero.iml, Cloud\KrossZero.iml]
+2021-07-05 21:41:38 INFO  Main:23 - [tocloud, C:\\java\KrossZero\lesson7\online\GameWindow.java, Cloud\GameWindow.java]
+2021-07-05 21:41:55 INFO  Main:21 - [login, Jack, Son]
+2021-07-05 21:41:55 INFO  Main:90 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-05 21:41:55 INFO  Main:114 - Autentication done for Jack
+2021-07-05 21:49:46 INFO  Main:26 - jdbc:postgresql://localhost:5432/testdb postgres 9876 8189
+2021-07-05 21:49:47 INFO  Main:49 - Server started on port 8189
+2021-07-05 21:50:15 INFO  Main:21 - [login, Jack, Son]
+2021-07-05 21:50:15 INFO  Main:90 - [Anton riokl, Boris xvcbdf, Cobold 5453, macho 888, Tanya 1068, Jack Son]
+2021-07-05 21:50:15 INFO  Main:114 - Autentication done for Jack
+2021-07-05 21:50:15 INFO  Main:55 - Show private folder ___private___Jack
+2021-07-05 21:50:19 INFO  Main:55 - Show private folder ___private___Jack
+2021-07-05 21:50:26 INFO  Main:23 - [tocloud, C:\\java\ChatServer\pom.xml, Cloud\___private___Jack\pom.xml]
+2021-07-05 21:50:28 INFO  Main:55 - Show private folder ___private___Jack
+2021-07-05 21:50:53 INFO  Main:23 - [tocloud, C:\\Program Files (x86)\MySQL, Cloud\MySQL]
+2021-07-05 21:50:54 INFO  Main:55 - Show private folder ___private___Jack
+2021-07-05 21:51:04 INFO  Main:55 - Show private folder ___private___Jack

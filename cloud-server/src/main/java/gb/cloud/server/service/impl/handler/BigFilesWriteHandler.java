@@ -14,7 +14,7 @@ public class BigFilesWriteHandler extends ChannelInboundHandlerAdapter {
     public void channelRead(ChannelHandlerContext ctx, Object chunkedFile) {
         ByteBuf byteBuf = (ByteBuf) chunkedFile;
 
-        try (OutputStream os = new BufferedOutputStream(new FileOutputStream("xxx", true))) {
+        try (OutputStream os = new BufferedOutputStream(new FileOutputStream(ctx.name(), true))) {
             while (byteBuf.isReadable()) {
                 os.write(byteBuf.readByte());
             }
